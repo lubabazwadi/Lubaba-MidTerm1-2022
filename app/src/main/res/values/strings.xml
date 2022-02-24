@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">[Lubaba]-MidTerm-1,2022</string>
+    <string name="Activity1">"Activity1"</string>
+    <string name="Activity2">"Activity2"</string>
+    <string name="Activity3">"Activity3"</string>
+    <string name="activity1">"You are in Activity1"</string>
+    <string name="activity2">"You are in Activity2"</string>
+    <string name="activity3">"You are in Activity3"</string>
+    <string name="activityButton">Go to main activity</string>
+    <string-array name="number">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Forth</item>
+    </string-array>
+</resources>

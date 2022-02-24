@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lubaba_midterm_12022">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/lolo_foreground"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/lolo_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LubabaMidTerm12022">
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".MainActivity3"></activity>
+        <activity android:name=".BigItem"></activity>
+        <activity
+            android:name=".Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
